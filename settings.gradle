@@ -1,0 +1,2 @@
+rootProject.name = "LawRevision"
+include ':app' 
